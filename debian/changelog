@@ -1,3 +1,9 @@
+privacyidea-ucs (2.19.1-1) unstable; urgency=medium
+
+  * Migrate to Apache 2.4
+
+ -- Florian Best <best@univention.de>  Thu, 30 Mar 2017 17:01:40 +0200
+
 privacyidea-ucs (2.18.1-1) wheezy; urgency=low
 
   * Update to 2.18.1
